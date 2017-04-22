@@ -1,9 +1,0 @@
-com\toy\motobike\core\Log.class
-com\toy\motobike\service\SpringBootRestApiApp.class
-com\toy\motobike\controller\ProductCategoryController.class
-com\toy\motobike\core\Request.class
-com\toy\motobike\controller\BaseController.class
-com\toy\motobike\controller\UserController.class
-com\toy\motobike\core\Operation.class
-com\toy\motobike\core\Response.class
-com\toy\motobike\core\ResponseCode.class
